@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locale>
+	<Backend>
+		<Backgrounds>
+			<item type="label" name="AddBackgrounds">
+				<translation language="nl"><![CDATA[Achtergrond toevoegen]]></translation>
+				<translation language="en"><![CDATA[add Backgrounds]]></translation>
+			</item>
+			<item type="label" name="Cover">
+				<translation language="nl"><![CDATA[Preview]]></translation>
+				<translation language="en"><![CDATA[Preview]]></translation>
+			</item>
+			<item type="label" name="Background">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="BackgroundsBackground">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="Background">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="Options">
+				<translation language="nl"><![CDATA[opties]]></translation>
+				<translation language="en"><![CDATA[options]]></translation>
+			</item>
+			<item type="label" name="BackgroundSize">
+				<translation language="nl"><![CDATA[background-size]]></translation>
+				<translation language="en"><![CDATA[background-size]]></translation>
+			</item>
+			<item type="label" name="BackgroundPosition">
+				<translation language="nl"><![CDATA[background-position]]></translation>
+				<translation language="en"><![CDATA[background-position]]></translation>
+			</item>
+			<item type="label" name="BackgroundRepeat">
+				<translation language="nl"><![CDATA[background-repeat]]></translation>
+				<translation language="en"><![CDATA[background-repeat]]></translation>
+			</item>
+		</Backgrounds>
+		<Pages>
+			<item type="label" name="BackgroundsBackground">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="Background">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="Backgrounds">
+				<translation language="nl"><![CDATA[Achtergronden]]></translation>
+				<translation language="en"><![CDATA[Backgrounds]]></translation>
+			</item>
+		</Pages>
+		<Core>
+			<item type="label" name="BackgroundsBackground">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="Background">
+				<translation language="nl"><![CDATA[Achtergrond]]></translation>
+				<translation language="en"><![CDATA[Background]]></translation>
+			</item>
+			<item type="label" name="Backgrounds">
+				<translation language="nl"><![CDATA[Achtergronden]]></translation>
+				<translation language="en"><![CDATA[Backgrounds]]></translation>
+			</item>
+		</Core>
+	</Backend>
+	<Frontend>
+		<core>
+		</core>
+	</Frontend>
+</locale>

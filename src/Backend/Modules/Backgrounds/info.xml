@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<name>Backgrounds</name>
+	<version>1.0.0</version>
+	<requirements>
+		<minimum_version>versionname</minimum_version>
+	</requirements>
+	<description>
+		<![CDATA[The backgrounds module lets you upload an image or video and use the generated widget on a page. The image wil be used as background image for that div block.]]>
+	</description>
+	<authors>
+		<author>
+			<name><![CDATA[Jesse Dobbelaere]]></name>
+			<url><![CDATA[http://www.jessedobbelae.re]]></url>
+		</author>
+	</authors>
+	<events>
+		<event application="backend" name="after_add"><![CDATA[Triggered when a Backgrounds is added.]]></event>
+		<event application="backend" name="after_delete"><![CDATA[Triggered when a Backgrounds is deleted.]]></event>
+		<event application="backend" name="after_edit"><![CDATA[Triggered when a Backgrounds is edited.]]></event>
+		<event application="backend" name="after_saved_settings"><![CDATA[Triggered when settings are saved.]]></event>
+	</events>
+</module>
