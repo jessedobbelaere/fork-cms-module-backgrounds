@@ -24,6 +24,10 @@ You can see a live example [here](http://www.woestyne.be/nl/feestzalen) in the h
 4. Go to `Settings > Modules`. Click on the install button next to the backgrounds module.
 5. Have fun!
 
+## HTML & CSS
+
+The widget generates a div. To set the div as a background, I used some css. [Here's a quick codepen example](http://codepen.io/anon/pen/PwjqVN) to do this for a page header.
+
 ## Bugs
 
 If you encounter any bugs, please create an issue and I'll try to fix it (or feel free to fix it yourself with a pull-request).
