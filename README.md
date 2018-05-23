@@ -1,5 +1,8 @@
 # README
 
+## Archived
+This module is not active anymore. Most functionality is included in Fork CMS by default now. You can go to a page and go to the Image tab and upload a page image there and use it in your theme layout. 
+
 ## Description
 The Fork CMS Backgrounds module let's you add backgrounds to your Fork CMS site. Upload a background, set the css options (background-size: cover, background-repeat, background-position, ...). For every background, a new widget is generated that you can insert anywhere on your Fork CMS site. 
 
