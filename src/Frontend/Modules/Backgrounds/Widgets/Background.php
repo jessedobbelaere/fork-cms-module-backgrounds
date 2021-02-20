@@ -2,13 +2,6 @@
 
 namespace Frontend\Modules\Backgrounds\Widgets;
 
-/*
- * This file is part of Fork CMS.
- *
- * For the full copyright and license information, please view the license
- * file that was distributed with this source code.
- */
-
 use Frontend\Core\Engine\Base\Widget as FrontendBaseWidget;
 use Frontend\Core\Engine\Model as FrontendModel;
 use Frontend\Modules\Backgrounds\Engine\Model as FrontendBackgroundsModel;
